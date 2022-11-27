@@ -38,7 +38,10 @@ ___
 
 - 📓 Creating detailed notes for my courses at UNISA. To access these, view [Unisa Notes](https://github.com/orgs/Unisa-Notes/repositories). The courses that the notes are for are:
     * Theoretical Computer Science ([COS1501](https://github.com/Unisa-Notes/COS1501))
+    * Introduction to Programming II ([COS1512](https://github.com/Unisa-Notes/COS1512))
     * Computer Systems ([COS1521](https://github.com/Unisa-Notes/COS1521))
+    * Introduction to Business Information Systems ([INF1505](https://github.com/Unisa-Notes/INF1505))
+    * Linear Algebra I ([MAT1503](https://github.com/Unisa-Notes/MAT1503))
 - 🎵 [Music Modify](https://github.com/Kayzels/Music-Modify), a music metadata tagging app. 
 
 ___
