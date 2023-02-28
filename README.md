@@ -36,9 +36,11 @@ ___
 
 ### ✏️ My Projects
 
-- 🎵 [Music Modify](https://github.com/Kayzels/Music-Modify), a music metadata tagging app.
-- 🧳 [Luggage QR](https://github.com/Kayzels/LuggageQR), an app to design printable luggage tags with WhatsApp QR Codes
-- 📓 Creating detailed notes for my courses at UNISA. To access these, view [Unisa Notes](https://github.com/orgs/Unisa-Notes/repositories). The courses that the notes are for are:
+- 🎵 [Music Modify](https://github.com/Kayzels/Music-Modify), a music metadata tagging app. (Python, PyQt5, REST APIs, Multithreading)
+- 🧳 [Luggage QR](https://github.com/Kayzels/LuggageQR), an app to design printable luggage tags with WhatsApp QR Codes. (Python, PyQt6, QR Codes)
+- ⏰ [Pomodoro](https://github.com/Kayzels/Pomodoro), a basic timer app for doing work and taking breaks. (Python, PyQt6)
+- 🪐 [Planet Color Theme](https://github.com/Kayzels/planet-color-theme), a color theme for Visual Studio Code, based on the Default Dark+ theme. (JSON, VSCode)
+- 📓 Creating detailed notes for my courses at UNISA, written in LaTeX. To access these, view [Unisa Notes](https://github.com/orgs/Unisa-Notes/repositories). The courses that the notes are for are:
     * First Year:
         - Theoretical Computer Science ([COS1501](https://github.com/Unisa-Notes/COS1501))
         - Introduction to Programming II ([COS1512](https://github.com/Unisa-Notes/COS1512))
